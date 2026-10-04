@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+pkg/
+src/
+*.pkg.tar.zst
+airplay_mirror/vendor/
+doubletake-*
+TODO.md

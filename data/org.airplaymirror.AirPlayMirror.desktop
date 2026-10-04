@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=AirPlay Mirror
+Comment=Mirror your screen to an Apple TV
+Comment[fr]=Recopier votre écran sur une Apple TV
+Exec=airplay-mirror
+Icon=video-display
+Terminal=false
+Categories=AudioVideo;Utility;
+StartupWMClass=org.airplaymirror.AirPlayMirror
+Keywords=airplay;mirror;apple tv;screen;cast;
